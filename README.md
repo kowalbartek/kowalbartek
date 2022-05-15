@@ -1,4 +1,4 @@
-### Hi there
+### Hi there <img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif" width="50" height="50"/>
 
 <!--
 **kowalbartek/kowalbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif" width="250" height="250"/>
-![Alt Text](https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif)
 
 
