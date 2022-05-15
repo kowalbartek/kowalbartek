@@ -1,4 +1,4 @@
-### Hi there <iframe src="https://gifer.com/embed/WME8" width=480 height=560.640 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+### Hi there
 
 <!--
 **kowalbartek/kowalbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<iframe src="https://gifer.com/embed/WME8" width=480 height=560.640 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
