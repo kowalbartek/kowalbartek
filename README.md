@@ -1,5 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif" width="50" height="50"/>
-
+### Hi there!
 <!--
 **kowalbartek/kowalbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
