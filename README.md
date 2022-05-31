@@ -1,5 +1,5 @@
 ### Hi there!
-![pac](https://user-images.githubusercontent.com/93825166/171283708-c7eb9924-c116-4312-93f7-241137b9a6ac.svg)
+
 <!--
 
 **kowalbartek/kowalbartek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
