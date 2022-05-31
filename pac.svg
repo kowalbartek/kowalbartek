@@ -1,3 +1,4 @@
+<html> 
 <svg id="PacMan" width="750" height="750" viewBox="0 0 1100 1000">
 <!-- Separating Line -->
 <rect x="1000" y="300" width="10" height="450" fill="#D3D3D3" rx="5px"/>
@@ -134,3 +135,4 @@
 </rect>
 </g>
 </svg>
+</html>
