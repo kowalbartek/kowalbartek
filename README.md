@@ -31,6 +31,6 @@ const bartek = {
             ["JetBrains Toolbox"]
         }
     },
-    currentFocus: "Interviewing at Microsoft, Building Kowal Agency"
+    currentFocus: "Interviewing for Internships, C# language"
 };
 ```
