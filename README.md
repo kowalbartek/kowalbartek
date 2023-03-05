@@ -21,8 +21,8 @@
 const bartek = {
     pronouns: "He" | "Him",
     origin: Poland && Ireland,
-    languages: ["Javascript", "HTML", "CSS", "Java"],
-    askMeAbout: ["tech", "design", "marketing"],
+    languages: ["JavaScript", "HTML", "CSS", "Java", TypeScript, React],
+    askMeAbout: ["tech", "design"],
     tools: {
         design: {
             ["Adobe Suite", "Procreate"]
@@ -31,6 +31,6 @@ const bartek = {
             ["JetBrains Toolbox"]
         }
     },
-    currentFocus: "Interning @ Fidelity Investments"
+    currentFocus: "CSSE @ Maynooth University"
 };
 ```
