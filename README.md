@@ -31,6 +31,6 @@ const bartek = {
             ["JetBrains Toolbox"]
         }
     },
-    currentFocus: "Interviewing for Internships, C# language"
+    currentFocus: "Interning @ Fidelity Investments"
 };
 ```
