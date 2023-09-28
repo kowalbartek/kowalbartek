@@ -5,7 +5,6 @@
 <p>
     <em>CSSE Student at 
         <a href="https://www.maynoothuniversity.ie/">Maynooth University</a>
-        <img src="https://user-images.githubusercontent.com/93825166/171669917-ba967de8-206a-4913-995a-13f169abd86b.gif" height="30">
     </em>
 </p>
 
@@ -21,7 +20,7 @@
 const bartek = {
     pronouns: "He" | "Him",
     origin: Poland && Ireland,
-    languages: ["JavaScript", "HTML", "CSS", "Java", TypeScript, React],
+    languages: ["JavaScript", "HTML", "CSS", "Java", "TypeScript", "React"],
     askMeAbout: ["tech", "design"],
     tools: {
         design: {
